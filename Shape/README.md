@@ -1,14 +1,4 @@
-# Containerization
-
-### Setup
-- Install docker on your Mac <a href="https://desktop.docker.com/mac/stable/Docker.dmg">Download</a>
-- Create a docker Registry on <a href="https://hub.docker.com/signup">Create Account</a>
-
-## Task one
-- Create a docker file and docker compose for your `week-6 task`.
-
-
-## Task two - Calculate Area of basic shapes
+## Area of basic shapes
 You have been asked to work on a project that will be used for calculating the area of different shapes. Your task is to build a RESTful API for the project using Node and Express into a file database.json. The list of supported shapes, their dimensions and formulas have been given below
 
 | Shape          | Dimensions                                               | Formula for Area                                          |
