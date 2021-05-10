@@ -37,5 +37,27 @@
       "b": 7
     },
     "createdAt": "2021-05-08T00:50:24.025Z"
+  },
+  {
+    "id": 5,
+    "shape": "triangle",
+    "area": 16.25,
+    "dimension": {
+      "a": 5,
+      "b": 10,
+      "c": 7
+    },
+    "createdAt": "2021-05-09T00:02:20.468Z"
+  },
+  {
+    "id": 6,
+    "shape": "triangle",
+    "area": null,
+    "dimension": {
+      "a": 20,
+      "b": 2,
+      "c": 3
+    },
+    "createdAt": "2021-05-09T00:04:00.523Z"
   }
 ]
